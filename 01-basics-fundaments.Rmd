@@ -1,0 +1,7 @@
+\mainmatter
+
+# (PART) Noções básicas {-}
+
+# Fundamentos matemáticos
+
+## eq 2 grau

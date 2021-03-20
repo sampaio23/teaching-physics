@@ -1,0 +1,3 @@
+# (PART) Mecânica clássica I {-}
+
+# Cinemática do ponto material
