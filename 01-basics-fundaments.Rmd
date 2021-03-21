@@ -4,4 +4,10 @@
 
 # Fundamentos matemáticos
 
-## eq 2 grau
+## Equações do 1º Grau
+
+## Equações do 2º Grau
+
+## Área de Figuras Planas
+
+## Volume de Sólidos

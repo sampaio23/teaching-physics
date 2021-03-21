@@ -4,7 +4,8 @@ author: "Luiz Sampaio"
 date: "`r Sys.Date()`"
 documentclass: krantz
 output:
-  bookdown::gitbook: default
+  bookdown::gitbook:
+    split_by: section
   bookdown::pdf_book:
     keep_tex: true
 ---
