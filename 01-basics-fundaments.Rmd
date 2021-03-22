@@ -11,3 +11,93 @@
 ## Área de Figuras Planas
 
 ## Volume de Sólidos
+
+## Problemas
+
+1) A reta $f$ é definida por $f(x)=ax+b$. Sabe-se que $f(-1)=3$ e $f(1)=1$. O valor de $f(3)$ é:  
+(a) 0  
+(b) 2  
+(c) -5  
+(d) -3  
+(e) -1
+
+2) A equação $\frac{y}{2} = x+1$ representa uma reta:  
+(a) paralela à reta de equação $y = x+3$  
+(b) concorrente à reta de equação $y=2x+5$  
+(c) igual à reta de equação $y=x+2$  
+(d) que intercepta o eixo das ordenadas no ponto $(0,1)$  
+(e) que intercepta o eixo das abscissas no ponto $(-1,0)$
+
+3) A equação $(m^2+1)x-2m+5 = 0$ admite raiz negativa se, e somente se:  
+(a) $m < \frac{5}{2}$  
+(b) $m > \frac{5}{2}$  
+(c) $m \leq \frac{1}{4}$  
+(d) $m \geq \frac{5}{2}$  
+(e) $m < 1$  
+
+4) A solução do sistema
+$$
+\begin{cases}
+3x+2 < 7-2x \\
+48x < 3x+10 \\
+11 - 2(x-3) > 1 - 3(x-5)
+\end{cases}
+$$
+é o conjunto de todos os números reais $x$ tais que:  
+(a) $-1 < x < 0$  
+(b) $-1 < x < 1$  
+(c) $-1 < x < \frac{2}{9}$  
+(d) $-1 < x < \frac{1}{3}$  
+(e) $-1 < x < \frac{4}{9}$  
+
+5) O conjunto de todos os $x$ reais para os quais $\sqrt{\frac{x+1}{x-2}}$ é um número real é:  
+(a) $\{x \in \mathbb{R}\, | -1 < x < 2\}$  
+(b) $\{x \in \mathbb{R}\, | -1 \leq x < 2\}$  
+(c) $\{x \in \mathbb{R}\, | x < -1 \text{ ou } x > 2\}$  
+(d) $\{x \in \mathbb{R}\, | x \leq -1 \text{ ou } x \geq 2\}$  
+(e) $\{x \in \mathbb{R}\, |  x \neq 2\}$  
+
+6)
+
+7)
+
+8)
+
+9)
+
+10)
+
+11) Os lados de dois octógonos regulares têm, respectivamente, 5 cm e 12 cm. O comprimento do lado de um terceiro octógono regular, de área igual à soma das áreas dos outros dois é:  
+(a) 17 cm  
+(b) 15 cm  
+(c) 14 cm  
+(d) 13 cm  
+(e) 11 cm
+
+12) O quadrilátero $ABCD$ é um retângulo e os pontos $E$, $F$ e $G$ dividem a base $\overline{AB}$ em quatro partes iguais. A razão entre a área do triângulo $CEF$ e a área do retângulo é:
+
+```{r rpubs, echo=FALSE, out.width='30%'}
+knitr::include_graphics('images/cescem-77.png', dpi = NA)
+```
+
+(a) 1/6  
+(b) 1/7  
+(c) 1/8  
+(d) 1/9  
+(e) 1/10
+
+13)
+
+14)
+
+15)
+
+16)
+
+17)
+
+18)
+
+19)
+
+20)
